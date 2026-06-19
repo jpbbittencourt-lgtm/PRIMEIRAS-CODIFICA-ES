@@ -1,3 +1,3 @@
 function mostrarMensagem() {
-    alert("Olá João! Seu JavaScript está funcionando!");
+    alert("Olá! Seja bem-vindo ao meu site.");
 }
